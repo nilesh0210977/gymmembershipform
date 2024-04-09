@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="membership_types">
+        <item>Basic</item>
+        <item>Silver</item>
+        <item>Gold</item>
+        <item>Premium</item>
+    </string-array>
+</resources>
